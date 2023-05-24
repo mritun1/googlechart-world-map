@@ -1,0 +1,722 @@
+[
+    {
+        "count_id": "56614648",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "BW",
+        "valueData": "7",
+        "end_time": "2022-12-30",
+        "created_on": "2023-05-19 00:48:55",
+        "removed_on": null
+    },
+    {
+        "count_id": "56614661",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "KR",
+        "valueData": "7",
+        "end_time": "2022-12-30",
+        "created_on": "2023-05-19 00:48:55",
+        "removed_on": null
+    },
+    {
+        "count_id": "56614688",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "NZ",
+        "valueData": "7",
+        "end_time": "2022-12-31",
+        "created_on": "2023-05-19 00:48:55",
+        "removed_on": null
+    },
+    {
+        "count_id": "56614703",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "IL",
+        "valueData": "8",
+        "end_time": "2022-12-31",
+        "created_on": "2023-05-19 00:48:55",
+        "removed_on": null
+    },
+    {
+        "count_id": "56614709",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "MW",
+        "valueData": "7",
+        "end_time": "2022-12-31",
+        "created_on": "2023-05-19 00:48:55",
+        "removed_on": null
+    },
+    {
+        "count_id": "56614722",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "TO",
+        "valueData": "8",
+        "end_time": "2022-12-31",
+        "created_on": "2023-05-19 00:48:55",
+        "removed_on": null
+    },
+    {
+        "count_id": "56615024",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "CM",
+        "valueData": "6",
+        "end_time": "2022-12-02",
+        "created_on": "2023-05-19 00:48:55",
+        "removed_on": null
+    },
+    {
+        "count_id": "56616074",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "TR",
+        "valueData": "5",
+        "end_time": "2022-11-17",
+        "created_on": "2023-05-19 00:48:56",
+        "removed_on": null
+    },
+    {
+        "count_id": "56616132",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "UG",
+        "valueData": "5",
+        "end_time": "2022-11-19",
+        "created_on": "2023-05-19 00:48:56",
+        "removed_on": null
+    },
+    {
+        "count_id": "56616186",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "GE",
+        "valueData": "5",
+        "end_time": "2022-11-20",
+        "created_on": "2023-05-19 00:48:56",
+        "removed_on": null
+    },
+    {
+        "count_id": "56617154",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "RO",
+        "valueData": "5",
+        "end_time": "2022-11-01",
+        "created_on": "2023-05-19 00:48:56",
+        "removed_on": null
+    },
+    {
+        "count_id": "56619352",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "PE",
+        "valueData": "5",
+        "end_time": "2022-09-25",
+        "created_on": "2023-05-19 00:48:57",
+        "removed_on": null
+    },
+    {
+        "count_id": "56623655",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "KH",
+        "valueData": "5",
+        "end_time": "2022-06-17",
+        "created_on": "2023-05-19 00:48:58",
+        "removed_on": null
+    },
+    {
+        "count_id": "56634176",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "QA",
+        "valueData": "5",
+        "end_time": "2021-10-06",
+        "created_on": "2023-05-19 00:49:02",
+        "removed_on": null
+    },
+    {
+        "count_id": "56637156",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "GH",
+        "valueData": "4",
+        "end_time": "2021-07-22",
+        "created_on": "2023-05-19 00:49:03",
+        "removed_on": null
+    },
+    {
+        "count_id": "56637235",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "HU",
+        "valueData": "4",
+        "end_time": "2021-07-24",
+        "created_on": "2023-05-19 00:49:03",
+        "removed_on": null
+    },
+    {
+        "count_id": "56639818",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "GR",
+        "valueData": "4",
+        "end_time": "2021-07-07",
+        "created_on": "2023-05-19 00:49:03",
+        "removed_on": null
+    },
+    {
+        "count_id": "56639882",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "PR",
+        "valueData": "1",
+        "end_time": "2021-07-09",
+        "created_on": "2023-05-19 00:49:03",
+        "removed_on": null
+    },
+    {
+        "count_id": "56639885",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "BE",
+        "valueData": "1",
+        "end_time": "2021-07-09",
+        "created_on": "2023-05-19 00:49:03",
+        "removed_on": null
+    },
+    {
+        "count_id": "56639909",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "AL",
+        "valueData": "1",
+        "end_time": "2021-07-09",
+        "created_on": "2023-05-19 00:49:03",
+        "removed_on": null
+    },
+    {
+        "count_id": "56639912",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "GT",
+        "valueData": "1",
+        "end_time": "2021-07-09",
+        "created_on": "2023-05-19 00:49:03",
+        "removed_on": null
+    },
+    {
+        "count_id": "56639924",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "ZW",
+        "valueData": "1",
+        "end_time": "2021-07-09",
+        "created_on": "2023-05-19 00:49:03",
+        "removed_on": null
+    },
+    {
+        "count_id": "56676870",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "PL",
+        "valueData": "11",
+        "end_time": "2023-05-15",
+        "created_on": "2023-05-19 05:49:42",
+        "removed_on": null
+    },
+    {
+        "count_id": "56676907",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "ES",
+        "valueData": "11",
+        "end_time": "2023-05-16",
+        "created_on": "2023-05-19 05:49:42",
+        "removed_on": null
+    },
+    {
+        "count_id": "56677250",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "IE",
+        "valueData": "11",
+        "end_time": "2023-05-10",
+        "created_on": "2023-05-19 05:49:43",
+        "removed_on": null
+    },
+    {
+        "count_id": "56679476",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "LB",
+        "valueData": "11",
+        "end_time": "2023-03-30",
+        "created_on": "2023-05-19 05:49:48",
+        "removed_on": null
+    },
+    {
+        "count_id": "56682135",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "NL",
+        "valueData": "9",
+        "end_time": "2023-01-18",
+        "created_on": "2023-05-19 05:49:54",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702522",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "DE",
+        "valueData": "23",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702523",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "NP",
+        "valueData": "25",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702524",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "BD",
+        "valueData": "1274",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702525",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "TW",
+        "valueData": "15",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702526",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "HK",
+        "valueData": "75",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702527",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "JP",
+        "valueData": "15",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702528",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "HN",
+        "valueData": "33",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702529",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "FR",
+        "valueData": "19",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702530",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "SA",
+        "valueData": "28",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702531",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "BR",
+        "valueData": "297",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702532",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "SD",
+        "valueData": "14",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702533",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "SG",
+        "valueData": "14",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702534",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "MA",
+        "valueData": "27",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702535",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "DZ",
+        "valueData": "29",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702536",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "KE",
+        "valueData": "22",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702537",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "MG",
+        "valueData": "45",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702538",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "GB",
+        "valueData": "82",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702539",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "ID",
+        "valueData": "146",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702540",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "CA",
+        "valueData": "47",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702541",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "US",
+        "valueData": "512",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702542",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "SS",
+        "valueData": "14",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702543",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "MM",
+        "valueData": "17",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702544",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "CD",
+        "valueData": "16",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702545",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "EG",
+        "valueData": "86",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702546",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "AE",
+        "valueData": "20",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702547",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "AF",
+        "valueData": "13",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702548",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "IN",
+        "valueData": "891",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702549",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "SY",
+        "valueData": "29",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702550",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "ZA",
+        "valueData": "235",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702551",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "IQ",
+        "valueData": "39",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702552",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "CN",
+        "valueData": "24",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702553",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "IT",
+        "valueData": "30",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702554",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "MX",
+        "valueData": "107",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702555",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "MY",
+        "valueData": "46",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702556",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "CO",
+        "valueData": "56",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702557",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "AO",
+        "valueData": "12",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702558",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "ZM",
+        "valueData": "28",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702559",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "TH",
+        "valueData": "14",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702560",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "AU",
+        "valueData": "29",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702561",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "VN",
+        "valueData": "689",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702562",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "PH",
+        "valueData": "1693",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702563",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "NG",
+        "valueData": "142",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702564",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "TN",
+        "valueData": "12",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702565",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "PK",
+        "valueData": "233",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    },
+    {
+        "count_id": "56702566",
+        "Follower_id": "18",
+        "channel_id": "1",
+        "name": "LK",
+        "valueData": "24",
+        "end_time": "2023-05-23",
+        "created_on": "2023-05-24 22:31:06",
+        "removed_on": null
+    }
+]

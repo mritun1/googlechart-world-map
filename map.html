@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-CN" style="height: 100%">
+
+<head>
+    <meta charset="utf-8">
+    <title>MAP</title>
+</head>
+
+<body>
+
+    <h1 class="top-heading">Country wise followers</h1>
+    
+    <div class="regions_div" id="regions_div" style="width: 900px; height: 500px;"></div>
+
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+        google.charts.load('current', {
+            'packages': ['geochart']
+        });
+        google.charts.setOnLoadCallback(drawRegionsMap);
+
+        function drawRegionsMap() {
+            // Fetch data from API
+            fetch('http://data.json')
+                .then(response => response.json())
+                .then(jsonData => {
+                    // Transform JSON data into Google Charts array format
+                    var dataArray = [['Country', 'Follower count']];
+                    jsonData.forEach(item => {
+                        dataArray.push([item['name'], Number(item['valueData'])]);
+                    });
+
+                    //console.log(dataArray)
+
+                    // Create Google Charts DataTable
+                    var data = google.visualization.arrayToDataTable(dataArray);
+
+                    var options = {
+                        colorAxis: { colors: ['#800000'] },
+                        datalessRegionColor: '#000'
+                    };
+
+                    var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
+                    chart.draw(data, options);
+                })
+                .catch(error => console.log('Error fetching data:', error));
+        }
+
+    </script>
+</body>
+
+</html>
